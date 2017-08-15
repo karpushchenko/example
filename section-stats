@@ -1,0 +1,45 @@
+<!-- ===============================================
+	STATS -->
+
+	<section id="stats" class="stats">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-3">
+					<div class="stats-icon">
+						<i class="fa fa-heart"></i>
+					</div><br>
+					<p class="stat">
+						<span class="number">3891</span><br>
+						User Favourites
+					</p>
+				</div><!-- col -->
+				<div class="col-sm-3">
+					<div class="stats-icon">
+						<i class="fa fa-heart"></i>
+					</div>
+					<p class="stat">
+						<span class="number">3891</span><br>
+						User Favourites
+					</p>
+				</div><!-- col -->
+				<div class="col-sm-3">
+					<div class="stats-icon">
+						<i class="fa fa-heart"></i>
+					</div>
+					<p class="stat">
+						<span class="number">3891</span><br>
+						User Favourites
+					</p>
+				</div><!-- col -->
+				<div class="col-sm-3">
+					<div class="stats-icon">
+						<i class="fa fa-heart"></i>
+					</div>
+					<p class="stat">
+						<span class="number">3891</span><br>
+						User Favourites
+					</p>
+				</div><!-- col -->
+			</div><!-- row -->
+		</div><!-- container -->
+	</section><!-- stats -->
